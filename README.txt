@@ -19,6 +19,6 @@ Usage
 License
 -------
 
-WTFPL 2.0. Do what the fuck you want to, the Honey Badger doesn't care. See
+WTFPL 2.0. Do what the fuck you want to, the Honey Badger don't care. See
 COPYING.txt.
 
