@@ -8,13 +8,13 @@ Usage
   >>> hb = HoneyBadger()
   >>> hb.runInSlowMotion()
   1
-  while hb.is_hungry:
-  ... assert hb.has_fear is False
-  ... hb.fightSnake('cobra')
-  ... hb.sleepOffVenomDose()
-  ... assert hb.gives_a_shit is False
-  ... hb.eatSnake('cobra')
-  ... assert hb.is_gross
+  >>> while hb.is_hungry:
+  ...     assert hb.has_fear is False
+  ...     hb.fightSnake('cobra')
+  ...     hb.sleepOffVenomDose()
+  ...     assert hb.gives_a_shit is False
+  ...     hb.eatSnake('cobra')
+  ...     assert hb.is_gross
   
 License
 -------
